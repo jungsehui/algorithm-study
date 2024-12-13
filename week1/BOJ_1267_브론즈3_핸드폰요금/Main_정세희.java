@@ -1,4 +1,4 @@
-package week1.BOJ_1267_브론즈3_핸드폰_요금;
+package week1.BOJ_1267_브론즈3_핸드폰요금;
 
 import java.io.*;
 import java.util.*;

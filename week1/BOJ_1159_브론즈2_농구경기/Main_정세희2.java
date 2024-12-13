@@ -1,4 +1,4 @@
-package week1.BOJ_1159_브론즈2_농구_경기;
+package week1.BOJ_1159_브론즈2_농구경기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
