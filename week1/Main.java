@@ -19,32 +19,37 @@ public class Main {
             names.add(st.nextToken());
         }
 
-/*
         List<String> firstAlphabet = names.stream()
                 .map(s -> s.substring(0, 1))
-                .toList();
-*/
-
-        // 첫 글자 추출 및 등장 횟수 카운트
-        Map<String, Long> firstLetterCount = names.stream()
-                .map(s -> s.substring(0, 1)) // 첫 글자 추출
-                .collect(Collectors.groupingBy(letter -> letter, Collectors.counting())); // 카운트
-
-        // 등장 횟수가 5 이상인 첫 글자만 추출
-        List<String> firstAlphabet = firstLetterCount.entrySet().stream()
-                .filter(entry -> entry.getValue() >= 5) // 5번 이상 등장하는 경우 필터링
-                .map(Map.Entry::getKey) // 알파벳만 추출
                 .collect(Collectors.toList());
 
-        StringBuilder answer = new StringBuilder();
-        for (String s : firstAlphabet) {
-            answer.append(s);
+        Collections.sort(firstAlphabet);
+
+        StringBuilder sb = new StringBuilder();
+        String previous = firstAlphabet.get(0);
+        int count = 1;
+
+        for (int i = 1; i < firstAlphabet.size(); i++) {
+            String s = firstAlphabet.get(i);
+            if (previous.equals(s)) {
+                count++;
+            } else {
+                if (count >= 5) {
+                    sb.append(previous);
+                }
+                previous = s;
+                count = 1;
+            }
         }
 
-        if (answer.toString().isEmpty()) {
+        if (count >= 5) {
+            sb.append(previous);
+        }
+
+        if (sb.toString().equals("")) {
             System.out.println("PREDAJA");
         } else {
-            System.out.println(answer);
+            System.out.println(sb);
         }
 
         br.close();
