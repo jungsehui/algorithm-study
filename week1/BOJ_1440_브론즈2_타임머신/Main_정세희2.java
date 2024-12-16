@@ -1,9 +1,11 @@
-package week1;
+package week1.BOJ_1440_브론즈2_타임머신;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-public class Main {
+public class Main_정세희2 {
 
     public static void main(String[] args) throws IOException {
 
