@@ -20,7 +20,7 @@ public class Main_김현창 {
 			int end = convertTimeStringToSeconds(endTime);
 
 			int answer = 0;
-			if (start < end) {
+			if (start <= end) {
 				answer += getCountOfThreeMultiples(start, end);
 			} else {
 				answer += getCountOfThreeMultiples(start, 86399);
