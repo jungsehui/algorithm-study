@@ -1,9 +1,11 @@
-package week1;
+package week1.BOJ_2037_브론즈1_문자메시지;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-public class Main {
+public class Main_정세희 {
 
     private static char[][] keypad = {
                                     {'A', 'B', 'C'},    {'D', 'E', 'F'},
