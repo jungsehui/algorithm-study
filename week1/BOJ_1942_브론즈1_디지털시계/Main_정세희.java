@@ -24,10 +24,10 @@ public class Main_정세희 {
             int count = 0;
 
             if (startTimeInt <= endTimeInt) {
-                count += getCount(startTimeInt, endTimeInt);
+                count += getCountOfThreeModuloZero(startTimeInt, endTimeInt);
             } else {
-                count += getCount(startTimeInt, 86399);
-                count += getCount(0, endTimeInt);
+                count += getCountOfThreeModuloZero(startTimeInt, 86399);
+                count += getCountOfThreeModuloZero(0, endTimeInt);
             }
 
             sb.append(count).append("\n");
@@ -38,10 +38,10 @@ public class Main_정세희 {
 
     }
 
-    private static int getCount(int startTimeInt, int endTimeInt) {
+    private static int getCountOfThreeModuloZero(int startTimeInt, int endTimeInt) {
         int count = 0;
-        for (int j = startTimeInt; j <= endTimeInt; j++) {
-            if (j % 3 == 0) {
+        for (int i = startTimeInt; i <= endTimeInt; i++) {
+            if (convertSecondsToTimeInt(i) % 3 == 0) {
                 count += 1;
             }
         }
@@ -53,5 +53,15 @@ public class Main_정세희 {
         return Integer.parseInt(tokens[0]) * 3600
                 + Integer.parseInt(tokens[1]) * 60
                 + Integer.parseInt(tokens[2]);
+    }
+
+    private static int convertSecondsToTimeInt(int seconds) {
+        int hours = seconds / 3600;
+        seconds %= 3600;
+        int minutes = seconds / 60;
+        seconds %= 60;
+
+        // 시계 정수 형태로 변환
+        return hours * 10000 + minutes * 100 + seconds;
     }
 }
