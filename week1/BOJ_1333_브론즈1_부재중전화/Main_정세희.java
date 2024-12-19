@@ -1,9 +1,11 @@
-package week1;
+package week1.BOJ_1333_브론즈1_부재중전화;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-public class Main {
+public class Main_정세희 {
 
     public static void main(String[] args) throws IOException {
 
