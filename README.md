@@ -6,6 +6,7 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 정세희 | 김현창 | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1032">1032</a> | <a href="/week1/BOJ_1032_브론즈1_명령프롬프트">명령프롬프트 |  ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/4.svg" alt="브론즈2" width="20" /> | <a href="http://boj.kr/1159">1159</a> | <a href="/week1/BOJ_1159_브론즈2_농구경기">농구경기 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/4.svg" alt="브론즈2" width="20" /> | <a href="http://boj.kr/1173">1173</a> | <a href="/week1/BOJ_1173_브론즈2_운동">운동 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1236">1236</a> | <a href="/week1/BOJ_1236_브론즈1_성지키기">성지키기 |  ❌ | ✔ |
