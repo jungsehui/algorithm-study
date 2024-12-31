@@ -62,6 +62,10 @@ public class Main_정세희 {
             }
         }
 
+        // max인 이유는 어차피 컴퓨터는 어디가 제일 적절한 위치인지 몰라도 되니까
+        // 적절한 위치는 찾았다고 생각할 수 있고
+        // 적절한 위치라면 row, col 전부 만족하는 위치이기 때문에
+        // 더 만족하지 않는 자리는 max로 취급해야 함
         System.out.println(Math.max(row, col));
         br.close();
     }
