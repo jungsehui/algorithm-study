@@ -3,7 +3,7 @@ package week2.BOJ_15649_실버3_N과M1;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main_정세희 {
+public class Main_정세희2 {
 
     private static int N;
     private static int M;
