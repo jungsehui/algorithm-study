@@ -38,7 +38,7 @@ public class Main_정세희2 {
             for (int elem : perm) {
                 result.append(elem).append(" ");
             }
-            result.append("/n");
+            result.append("\n");
             return;
         }
 
