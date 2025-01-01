@@ -30,7 +30,6 @@ public class Main_정세희 {
 
     private static void dfs(int depth) throws IOException {
         if (depth == M) {
-            StringBuilder sb = new StringBuilder();
             for (int elem : perm) {
                 bw.write(elem + " ");
             }
