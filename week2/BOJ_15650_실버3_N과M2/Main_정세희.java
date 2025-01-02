@@ -27,6 +27,7 @@ public class Main_정세희 {
         bw.close();
         br.close();
     }
+
     private static void dfs(int depth, int start) throws IOException {
         if (depth == M) {
             for (int elem : comb) {
