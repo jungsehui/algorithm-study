@@ -29,11 +29,16 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 정세희 | 김현창 | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15649">15649</a> | <a href="/week2/BOJ_15649_실버3_N과M1">N과M1 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15650">15650</a> | <a href="/week2/BOJ_15650_실버3_N과M2">N과M2 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15651">15651</a> | <a href="/week2/BOJ_15651_실버3_N과M3">N과M3 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15652">15652</a> | <a href="/week2/BOJ_15652_실버3_N과M4">N과M4 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/10972">10972</a> | <a href="/week2/BOJ_10972_실버3_다음순열">다음순열 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/10973">10973</a> | <a href="/week2/BOJ_10973_실버3_이전순열">이전순열 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1182">1182</a> | <a href="/week2/BOJ_1182_실버2_부분수열의합">부분수열의합 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15649">15649</a> | <a href="/week2/BOJ_15649_실버3_N과M1">N과M1 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15650">15650</a> | <a href="/week2/BOJ_15650_실버3_N과M2">N과M2 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15651">15651</a> | <a href="/week2/BOJ_15651_실버3_N과M3">N과M3 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15652">15652</a> | <a href="/week2/BOJ_15652_실버3_N과M4">N과M4 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/18429">18429</a> | <a href="/week2/BOJ_18429_실버3_근손실">근손실 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/20529">20529</a> | <a href="/week2/BOJ_20529_실버1_가장가까운세사람의심리적거">가장가까운세사람의심리적거 |  ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2309">2309</a> | <a href="/week2/BOJ_2309_브론즈1_일곱난쟁이">일곱난쟁이 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/4.svg" alt="브론즈2" width="20" /> | <a href="http://boj.kr/2798">2798</a> | <a href="/week2/BOJ_2798_브론즈2_블랙잭">블랙잭 |  ❌ | ✔ |
 
 </details>
