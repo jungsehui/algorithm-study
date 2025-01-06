@@ -1,12 +1,10 @@
-package week2.BOJ_20529_실버1_가장가까운세사람의심리적거;
+package week2.BOJ_20529_실버1_가장가까운세사람의심리적거리;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.StringTokenizer;
 
 public class Main_김현창 {
