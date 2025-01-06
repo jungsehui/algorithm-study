@@ -37,9 +37,11 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15650">15650</a> | <a href="/week2/BOJ_15650_실버3_N과M2">N과M2 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15651">15651</a> | <a href="/week2/BOJ_15651_실버3_N과M3">N과M3 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/15652">15652</a> | <a href="/week2/BOJ_15652_실버3_N과M4">N과M4 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/16637">16637</a> | <a href="/week2/BOJ_16637_골드3_괄호추가하기">괄호추가하기 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/18428">18428</a> | <a href="/week2/BOJ_18428_골드5_감시피하기">감시피하기 |  ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/18429">18429</a> | <a href="/week2/BOJ_18429_실버3_근손실">근손실 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/20529">20529</a> | <a href="/week2/BOJ_20529_실버1_가장가까운세사람의심리적거">가장가까운세사람의심리적거 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2309">2309</a> | <a href="/week2/BOJ_2309_브론즈1_일곱난쟁이">일곱난쟁이 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/20529">20529</a> | <a href="/week2/BOJ_20529_실버1_가장가까운세사람의심리적거리">가장가까운세사람의심리적거리 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2309">2309</a> | <a href="/week2/BOJ_2309_브론즈1_일곱난쟁이">일곱난쟁이 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/24954">24954</a> | <a href="/week2/BOJ_24954_실버1_물약구매">물약구매 |  ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/4.svg" alt="브론즈2" width="20" /> | <a href="http://boj.kr/2798">2798</a> | <a href="/week2/BOJ_2798_브론즈2_블랙잭">블랙잭 |  ❌ | ✔ |
 
