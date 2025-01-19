@@ -9,6 +9,7 @@ const uncheckMark = '❌';
 const weekSummary = {
     week1: '1주차 - 자바 익히기',
     week2: '2주차 - 브루트포스',
+    week3: '3주차 - BFS & DFS',
 };
 const platform = {
     BOJ: '백준',
