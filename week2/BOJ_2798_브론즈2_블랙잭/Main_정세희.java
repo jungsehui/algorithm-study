@@ -16,8 +16,6 @@ public class Main_정세희 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
 
-        // N일 간 운동 플랜: 중량이 500보다 작아지면 안 된다.
-        // K만큼 하루마다 중량이 감소한다.
         st = new StringTokenizer(br.readLine());
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
