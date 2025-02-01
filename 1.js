@@ -10,6 +10,7 @@ const weekSummary = {
     week1: '1주차 - 자바 익히기',
     week2: '2주차 - 브루트포스',
     week3: '3주차 - BFS & DFS',
+    week4: '4주차 - BFS & DFS (Gold)',
 };
 const platform = {
     BOJ: '백준',
