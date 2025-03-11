@@ -1,4 +1,4 @@
-package week5.BOJ_11659_실버3_구간합구하기;
+package week5.BOJ_11659_실버3_구간합구하기4;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
