@@ -1,4 +1,4 @@
-package week5.BOJ_16139_인간컴퓨터상호작용;
+package week5.BOJ_16139_실버1_인간컴퓨터상호작용;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
