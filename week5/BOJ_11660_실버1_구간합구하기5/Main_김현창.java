@@ -1,4 +1,4 @@
-package week5.BOJ_11660_실버3_구간합구하기5;
+package week5.BOJ_11660_실버1_구간합구하기5;
 
 import java.io.*;
 import java.util.*;
