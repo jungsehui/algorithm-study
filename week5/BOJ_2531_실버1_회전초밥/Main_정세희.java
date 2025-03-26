@@ -41,6 +41,14 @@ public class Main_정세희 {
 
         // 최대 초밥 종류 수 결정
         int max = eatCount;
+        if (max <= eatCount) {
+            if (eated[c] == 0) {
+                max = eatCount + 1;
+            } else {
+                max = eatCount;
+            }
+        }
+
         for (int i = 1; i < N; i++) {
             if (max <= eatCount) {
                 if (eated[c] == 0) {
@@ -60,6 +68,14 @@ public class Main_정세희 {
             eated[sushi[prev]]--;
             if (eated[sushi[prev]] == 0) {
                 eatCount--;
+            }
+        }
+
+        if (max <= eatCount) {
+            if (eated[c] == 0) {
+                max = eatCount + 1;
+            } else {
+                max = eatCount;
             }
         }
 
