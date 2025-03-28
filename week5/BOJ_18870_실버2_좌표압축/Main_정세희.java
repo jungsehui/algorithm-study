@@ -1,4 +1,4 @@
-package week6.BOJ_18870_실버2_좌표압축;
+package week5.BOJ_18870_실버2_좌표압축;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

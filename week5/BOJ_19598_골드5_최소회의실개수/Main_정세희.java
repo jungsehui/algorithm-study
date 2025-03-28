@@ -1,4 +1,4 @@
-package week6.BOJ_19598_골드5_최소회의실개수;
+package week5.BOJ_19598_골드5_최소회의실개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
