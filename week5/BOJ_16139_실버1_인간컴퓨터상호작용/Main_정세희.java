@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Main_정세희_50점 {
+public class Main_정세희 {
 
     public static void main(String[] args) throws Exception {
 
@@ -14,29 +14,26 @@ public class Main_정세희_50점 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
 
-        String line = br.readLine();
+        String S = br.readLine();
 
         st = new StringTokenizer(br.readLine());
-
         int q = Integer.parseInt(st.nextToken());
-
-        for (int i = 0; i < q; i++) {
-            st = new StringTokenizer(br.readLine());
-
-            char c = st.nextToken().charAt(0);
-            int l = Integer.parseInt(st.nextToken());
-            int r = Integer.parseInt(st.nextToken());
-            int count = 0;
-
-            for (int j = l; j <= r; j++) {
-                if (c == line.charAt(j)) {
-                    count++;
-                }
-            }
-
-            bw.write(count + System.lineSeparator());
+        int[][] arr = new int[S.length() + 1][26];
+        for (int i = 1; i <= S.length(); i++) {
+            System.arraycopy(arr[i - 1], 0, arr[i], 0, 26);
+            arr[i][S.charAt(i - 1) - 'a']++;
         }
 
+        StringBuilder sb = new StringBuilder();
+        while (q-- > 0) {
+            st = new StringTokenizer(br.readLine());
+            int a = st.nextToken().charAt(0) - 'a';
+            int l = Integer.parseInt(st.nextToken());
+            int r = Integer.parseInt(st.nextToken());
+            sb.append(arr[r + 1][a] - arr[l][a]).append(System.lineSeparator());
+        }
+
+        bw.write(sb.toString());
         bw.flush();
         bw.close();
         br.close();
