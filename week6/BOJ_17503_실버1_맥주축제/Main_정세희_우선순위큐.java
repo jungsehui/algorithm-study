@@ -3,7 +3,7 @@ package week6.BOJ_17503_실버1_맥주축제;
 import java.io.*;
 import java.util.*;
 
-public class Main_정세희 {
+public class Main_정세희_우선순위큐 {
 
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
