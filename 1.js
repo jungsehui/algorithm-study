@@ -12,6 +12,8 @@ const weekSummary = {
     week3: '3주차 - BFS & DFS',
     week4: '4주차 - BFS & DFS (Gold)',
     week5: '5주차 - 누적합 & 투포인터',
+    week6: '6주차 - 이분탐색 & 브루트포스',
+    week7: '7주차 - 다이나믹 프로그래밍',
 };
 const platform = {
     BOJ: '백준',

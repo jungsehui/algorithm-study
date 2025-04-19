@@ -90,11 +90,44 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/16139">16139</a> | <a href="/week5/BOJ_16139_실버1_인간컴퓨터상호작용">인간컴퓨터상호작용 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18870">18870</a> | <a href="/week5/BOJ_18870_실버2_좌표압축">좌표압축 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/19598">19598</a> | <a href="/week5/BOJ_19598_골드5_최소회의실개수">최소회의실개수 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/24552">24552</a> | <a href="/week5/BOJ_24552_골드5_올바른괄호">올바른괄호 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2531">2531</a> | <a href="/week5/BOJ_2531_실버1_회전초밥">회전초밥 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2559">2559</a> | <a href="/week5/BOJ_2559_실버3_수열">수열 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/25708">25708</a> | <a href="/week5/BOJ_25708_실버2_만남의광장">만남의광장 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/26091">26091</a> | <a href="/week5/BOJ_26091_실버1_현대모비스소프트웨어아카데미">현대모비스소프트웨어아카데미 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/3020">3020</a> | <a href="/week5/BOJ_3020_골드5_개똥벌레">개똥벌레 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3273">3273</a> | <a href="/week5/BOJ_3273_실버3_두수의합">두수의합 |  ✔ | ✔ |
+
+</details><details>
+<summary>
+<b>6주차 - 이분탐색 & 브루트포스</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 정세희 | 김현창 | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/10157">10157</a> | <a href="/week6/BOJ_10157_실버3_자리배정">자리배정 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/10816">10816</a> | <a href="/week6/BOJ_10816_실버4_숫자카드2">숫자카드2 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/17503">17503</a> | <a href="/week6/BOJ_17503_실버1_맥주축제">맥주축제 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2512">2512</a> | <a href="/week6/BOJ_2512_실버2_예산">예산 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/26168">26168</a> | <a href="/week6/BOJ_26168_실버4_배열전체탐색하기">배열전체탐색하기 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2805">2805</a> | <a href="/week6/BOJ_2805_실버2_나무자르기">나무자르기 |  ✔ | ❌ |
+
+</details><details>
+<summary>
+<b>7주차 - 다이나믹 프로그래밍</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 정세희 | 김현창 | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11060">11060</a> | <a href="/week7/BOJ_11060_실버2_점프점프">점프점프 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/1463">1463</a> | <a href="/week7/BOJ_1463_실버3_1로만들기">1로만들기 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/14916">14916</a> | <a href="/week7/BOJ_14916_실버5_거스름돈">거스름돈 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1495">1495</a> | <a href="/week7/BOJ_1495_실버1_기타리스트">기타리스트 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/15489">15489</a> | <a href="/week7/BOJ_15489_실버4_파스칼삼각형">파스칼삼각형 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/16493">16493</a> | <a href="/week7/BOJ_16493_실버2_최대페이지수">최대페이지수 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/17216">17216</a> | <a href="/week7/BOJ_17216_실버2_가장큰감소부분수열">가장큰감소부분수열 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/17484">17484</a> | <a href="/week7/BOJ_17484_실버3_진우의달여행Small">진우의달여행Small |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18353">18353</a> | <a href="/week7/BOJ_18353_실버2_병사배치하기">병사배치하기 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1890">1890</a> | <a href="/week7/BOJ_1890_실버1_점프">점프 |  ❌ | ✔ |
 
 </details>
