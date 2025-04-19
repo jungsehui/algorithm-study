@@ -88,9 +88,9 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/12847">12847</a> | <a href="/week5/BOJ_12847_실버3_꿀아르바이트">꿀아르바이트 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/14476">14476</a> | <a href="/week5/BOJ_14476_골드2_최대공약수하나빼기">최대공약수하나빼기 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/16139">16139</a> | <a href="/week5/BOJ_16139_실버1_인간컴퓨터상호작용">인간컴퓨터상호작용 |  ✔ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18870">18870</a> | <a href="/week5/BOJ_18870_실버2_좌표압축">좌표압축 |  ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/19598">19598</a> | <a href="/week5/BOJ_19598_골드5_최소회의실개수">최소회의실개수 |  ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/24552">24552</a> | <a href="/week5/BOJ_24552_골드5_올바른괄호">올바른괄호 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18870">18870</a> | <a href="/week5/BOJ_18870_실버2_좌표압축">좌표압축 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/19598">19598</a> | <a href="/week5/BOJ_19598_골드5_최소회의실개수">최소회의실개수 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/24552">24552</a> | <a href="/week5/BOJ_24552_골드5_올바른괄호">올바른괄호 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2531">2531</a> | <a href="/week5/BOJ_2531_실버1_회전초밥">회전초밥 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2559">2559</a> | <a href="/week5/BOJ_2559_실버3_수열">수열 |  ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/25708">25708</a> | <a href="/week5/BOJ_25708_실버2_만남의광장">만남의광장 |  ✔ | ✔ |
