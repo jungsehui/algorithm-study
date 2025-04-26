@@ -1,4 +1,4 @@
-package week7.BOJ_17484_실버3_진우의달여행;
+package week7.BOJ_17484_실버3_진우의달여행Small;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
