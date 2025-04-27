@@ -107,7 +107,9 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/10157">10157</a> | <a href="/week6/BOJ_10157_실버3_자리배정">자리배정 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/10816">10816</a> | <a href="/week6/BOJ_10816_실버4_숫자카드2">숫자카드2 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1713">1713</a> | <a href="/week6/BOJ_1713_실버1_후보선택하기">후보선택하기 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/17503">17503</a> | <a href="/week6/BOJ_17503_실버1_맥주축제">맥주축제 |  ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1759">1759</a> | <a href="/week6/BOJ_1759_골드5_암호만들기">암호만들기 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2512">2512</a> | <a href="/week6/BOJ_2512_실버2_예산">예산 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/26168">26168</a> | <a href="/week6/BOJ_26168_실버4_배열전체탐색하기">배열전체탐색하기 |  ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2805">2805</a> | <a href="/week6/BOJ_2805_실버2_나무자르기">나무자르기 |  ✔ | ❌ |
@@ -119,15 +121,15 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 정세희 | 김현창 | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11060">11060</a> | <a href="/week7/BOJ_11060_실버2_점프점프">점프점프 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/1463">1463</a> | <a href="/week7/BOJ_1463_실버3_1로만들기">1로만들기 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/14916">14916</a> | <a href="/week7/BOJ_14916_실버5_거스름돈">거스름돈 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1495">1495</a> | <a href="/week7/BOJ_1495_실버1_기타리스트">기타리스트 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/15489">15489</a> | <a href="/week7/BOJ_15489_실버4_파스칼삼각형">파스칼삼각형 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/16493">16493</a> | <a href="/week7/BOJ_16493_실버2_최대페이지수">최대페이지수 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/17216">17216</a> | <a href="/week7/BOJ_17216_실버2_가장큰감소부분수열">가장큰감소부분수열 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/17484">17484</a> | <a href="/week7/BOJ_17484_실버3_진우의달여행Small">진우의달여행Small |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18353">18353</a> | <a href="/week7/BOJ_18353_실버2_병사배치하기">병사배치하기 |  ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1890">1890</a> | <a href="/week7/BOJ_1890_실버1_점프">점프 |  ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11060">11060</a> | <a href="/week7/BOJ_11060_실버2_점프점프">점프점프 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/1463">1463</a> | <a href="/week7/BOJ_1463_실버3_1로만들기">1로만들기 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/14916">14916</a> | <a href="/week7/BOJ_14916_실버5_거스름돈">거스름돈 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1495">1495</a> | <a href="/week7/BOJ_1495_실버1_기타리스트">기타리스트 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/15489">15489</a> | <a href="/week7/BOJ_15489_실버4_파스칼삼각형">파스칼삼각형 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/16493">16493</a> | <a href="/week7/BOJ_16493_실버2_최대페이지수">최대페이지수 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/17216">17216</a> | <a href="/week7/BOJ_17216_실버2_가장큰감소부분수열">가장큰감소부분수열 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/17484">17484</a> | <a href="/week7/BOJ_17484_실버3_진우의달여행Small">진우의달여행Small |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18353">18353</a> | <a href="/week7/BOJ_18353_실버2_병사배치하기">병사배치하기 |  ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1890">1890</a> | <a href="/week7/BOJ_1890_실버1_점프">점프 |  ✔ | ✔ |
 
 </details>
