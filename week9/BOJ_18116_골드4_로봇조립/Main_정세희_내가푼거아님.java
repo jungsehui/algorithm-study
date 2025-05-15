@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 public class Main_정세희_내가푼거아님 {
+
     private static final int MAX = 1_000_001;
     private static int[] parent = new int[MAX];
     private static int[] size = new int[MAX];

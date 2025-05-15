@@ -7,6 +7,7 @@ import java.util.Map;
 import java.util.StringTokenizer;
 
 public class Main_정세희_내가푼거아님 {
+
     private static int[] parent;
     private static int[] size;
     private static Map<String, Integer> nameToId;
