@@ -1,4 +1,4 @@
-package weekx.BOJ_12865_골드5_평범한배낭;
+package week13.BOJ_12865_골드5_평범한배낭;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
